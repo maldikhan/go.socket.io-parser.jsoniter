@@ -79,6 +79,11 @@ This parser is designed to be fully compatible with the Socket.IO V5 protocol. I
 
 Contributions to improve the parser are welcome. Please feel free to submit issues or pull requests.
 
+## Acknowledgments
+
+- [Socket.IO](https://socket.io/) for the original protocol and implementation
+- [jsoniter](https://github.com/json-iterator/go) for fast JSON parsing
+
 ## License
 
 This parser is licensed under the MIT License. See the [LICENSE](./LICENSE) file in the root of the repository for the full license text.
