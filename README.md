@@ -4,7 +4,7 @@ This package provides a high-performance JSON parser for [Socket.IO V5](https://
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/maldikhan/go.socket.io-parser.jsoniter/blob/main/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/maldikhan/go.socket.io-parser.jsoniter#latest)](https://goreportcard.com/report/github.com/maldikhan/go.socket.io-parser.jsoniter)
-[![codecov](https://codecov.io/github/maldikhan/go.socket.io-parser.jsoniter/graph/badge.svg?token=dWuUXfFPr4)](https://codecov.io/github/maldikhan/go.socket.io-parser.jsoniter)
+[![codecov](https://codecov.io/github/maldikhan/go.socket.io-parser.jsoniter/branch/master/graph/badge.svg?token=dWuUXfFPr4)](https://codecov.io/github/maldikhan/go.socket.io-parser.jsoniter)
 [![Go Reference](https://pkg.go.dev/badge/github.com/maldikhan/go.socket.io-parser.jsoniter.svg)](https://pkg.go.dev/github.com/maldikhan/go.socket.io-parser.jsoniter)  
 [![Test](https://github.com/maldikhan/go.socket.io-parser.jsoniter/actions/workflows/test.yaml/badge.svg)](https://github.com/maldikhan/go.socket.io-parser.jsoniter/actions/workflows/test.yaml)
 [![Lint](https://github.com/maldikhan/go.socket.io-parser.jsoniter/actions/workflows/lint.yaml/badge.svg)](https://github.com/maldikhan/go.socket.io-parser.jsoniter/actions/workflows/lint.yaml)
