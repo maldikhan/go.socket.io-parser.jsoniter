@@ -1,6 +1,6 @@
 # Socket.IO V5 Default Event Payload Parser with Jsoniter
 
-This package provides a high-performance JSON parser for Socket.IO V5 protocol event payload using the [jsoniter](https://github.com/json-iterator/go) library. It's designed to be a drop-in replacement for the default JSON parser, offering significant performance improvements.
+This package provides a high-performance JSON parser for [Socket.IO V5](https://github.com/maldikhan/go.socket.io) protocol event payload using the [jsoniter](https://github.com/json-iterator/go) library. It's designed to be a drop-in replacement for the default JSON parser, offering significant performance improvements.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/maldikhan/go.socket.io-parser.jsoniter/blob/main/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/maldikhan/go.socket.io-parser.jsoniter#latest)](https://goreportcard.com/report/github.com/maldikhan/go.socket.io-parser.jsoniter)
@@ -14,12 +14,12 @@ This package provides a high-performance JSON parser for Socket.IO V5 protocol e
 ## Features
 
 - High-performance JSON parsing and serialization
-- Compatible with Socket.IO V5 default protocol parser
+- Compatible with [Socket.IO V5](https://github.com/maldikhan/go.socket.io) default protocol parser
 - Easy integration with the default parser
 
 ## Installation
 
-To use this parser, first ensure you have the main Socket.IO client library installed:
+To use this parser, first ensure you have the main [Socket.IO](https://github.com/maldikhan/go.socket.io) client library installed:
 
 ```sh
 go get github.com/maldikhan/go.socket.io
