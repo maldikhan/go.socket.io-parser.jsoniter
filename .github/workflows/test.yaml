@@ -87,7 +87,6 @@ jobs:
           token: ${{ secrets.CODECOV_TOKEN }}
           files: |
             ./coverage.out
-            ./coverage.payloadparser.jsoniter.out
           flags: unittests
           fail_ci_if_error: true
 
